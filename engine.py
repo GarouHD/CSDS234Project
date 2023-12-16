@@ -283,4 +283,4 @@ if __name__ == "__main__":
 
     pagerank(G, 5, all_video_dic)
 
-    #plot_comparison(video_lis, video_dic, 30)
+    plot_comparison(video_lis, video_dic, 30)
